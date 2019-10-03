@@ -50,6 +50,7 @@
 		F3D61CEE2345DF3F00D6BBA8 /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3D61CED2345DF3F00D6BBA8 /* ProfileHost.swift */; };
 		F3D61CF02345E0EC00D6BBA8 /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3D61CEF2345E0EC00D6BBA8 /* ProfileSummary.swift */; };
 		F3D61CF22345E2EE00D6BBA8 /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3D61CF12345E2EE00D6BBA8 /* HikeBadge.swift */; };
+		F3D61CF42345EC9F00D6BBA8 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3D61CF32345EC9F00D6BBA8 /* ProfileEditor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -101,6 +102,7 @@
 		F3D61CED2345DF3F00D6BBA8 /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		F3D61CEF2345E0EC00D6BBA8 /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 		F3D61CF12345E2EE00D6BBA8 /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
+		F3D61CF32345EC9F00D6BBA8 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				F3D61CED2345DF3F00D6BBA8 /* ProfileHost.swift */,
 				F3D61CF12345E2EE00D6BBA8 /* HikeBadge.swift */,
 				F3D61CEF2345E0EC00D6BBA8 /* ProfileSummary.swift */,
+				F3D61CF32345EC9F00D6BBA8 /* ProfileEditor.swift */,
 				B739487D229F1C0100C47603 /* Supporting Views */,
 				B7394883229F291A00C47603 /* Resources */,
 				B739486B229F194200C47603 /* Assets.xcassets */,
@@ -344,6 +347,7 @@
 				F3D61CF02345E0EC00D6BBA8 /* ProfileSummary.swift in Sources */,
 				B7D2AAC5229F4D7C0061E5F5 /* UserData.swift in Sources */,
 				B7394881229F28B900C47603 /* Landmark.swift in Sources */,
+				F3D61CF42345EC9F00D6BBA8 /* ProfileEditor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
